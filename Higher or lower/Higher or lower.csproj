@@ -5,7 +5,6 @@
     <TargetFramework>net9.0</TargetFramework>
     <RootNamespace>Higher_or_lower</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
   </PropertyGroup>
 
 </Project>
